@@ -1,3 +1,20 @@
+**<p align="center">WHAT IS THIS PROJECT?</p>**
+
+In this project I use an Ariduno Uno, along with a temperature sensor and bluetooth adapter to an app that I created.
+
+**<p align="center">WHAT DO YOU NEED?</p>**
+
+1. Ariduno IDE: https://www.arduino.cc/en/software
+2. Android Studio: https://developer.android.com/studio
+3. Arduino Uno: https://store.arduino.cc/products/arduino-uno-rev3
+4. Bluetooth Adapter for Arduino: HC-05
+5. Temperature Sensor: TMP 36
+   
+
+
+
+
+
 **<p align="center">Arduino Schematic</p>**
 
                                           
