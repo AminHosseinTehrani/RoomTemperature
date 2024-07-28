@@ -66,3 +66,11 @@ delay(3000);
 
 }
 
+
+```
+
+  <p align="center">   <img width="360" height="800" src="https://github.com/AminHosseinTehrani/RoomTemperature/blob/master/Screenshot_20240728_160555_RoomTemperature.jpg" 
+</p>
+  <p align="center">   <img width="360" height="800" src="https://github.com/AminHosseinTehrani/RoomTemperature/blob/master/Screenshot_20240728_160738_RoomTemperature.jpg" 
+</p>
+
